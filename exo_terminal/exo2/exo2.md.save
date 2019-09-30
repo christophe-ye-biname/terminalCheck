@@ -1,0 +1,4 @@
+whoami: print current logged user
+pwd: show current directory
+chown: change the owner of a file
+clear:clear the terminal
